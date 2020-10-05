@@ -7,4 +7,4 @@ Basta alterar de acordo com as suas configurações.
 Para criar as tabelas e preenchê-las, basta todar na linha de comando <b>php db.php</b>
 
 # Testes Automatizados
-Para rodas os testes da API, basta rodar na linha de comando <b>composer test</b>.
+Para rodar os testes da API, basta rodar na linha de comando <b>composer test</b>.
